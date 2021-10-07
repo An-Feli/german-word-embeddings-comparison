@@ -12,4 +12,3 @@ models = train_word2vec.train_all_corpora(corpora = variables.corpora)
 
 # Write to file 10 most similar words for each testword in each model
 #train_word2vec.get_neighbourhood(models)
-

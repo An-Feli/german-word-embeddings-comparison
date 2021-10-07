@@ -2,12 +2,12 @@
 import os
 import xml.etree.ElementTree as ET
 
-
-whole_xmlcorpus = "/home/afh/BA/Korpora/XML-Korpus"
-path_korpora = "/home/afh/DIE Ordner/Uni TUD/6tes Semester/Bachelorarbeit/Korpora/"
-path_removed_texts = '/home/afh/DIE Ordner/Uni TUD/6tes Semester/Bachelorarbeit/Korpora/Removed from whole Corpus for 1750/'
-creat_1750 = "/home/afh/BA/KORPUS - Nur mit Creation Date und ab 1750/Plain Texts from XML/"
-creat_1650 = "/home/afh/BA/KORPUS - Nur mit Creation Date und ab 1650/Plain Texts from XML/"
+# Paths to be added by user
+whole_xmlcorpus = ""
+path_korpora = ""
+path_removed_texts = ""
+creat_1750 = ""
+creat_1650 = ""
 
 #################################################
 ############# Get Title, Date, Author ###########
