@@ -1,16 +1,15 @@
-# This is a sample Python script.
-
-# Press Shift+F10 to execute it or replace it with your code.
-# Press Double Shift to search everywhere for classes, files, tool windows, actions, and settings.
-
-
-def print_hi(name):
-    # Use a breakpoint in the code line below to debug your script.
-    print(f'Hi, {name}')  # Press Ctrl+F8 to toggle the breakpoint.
+import gensim.models
+import preprocessing
+import train_word2vec
+import variables
 
 
-# Press the green button in the gutter to run the script.
-if __name__ == '__main__':
-    print_hi('PyCharm')
+# Preprocess corpus from 1750 as well as from 1650
+#preprocessing.preprocess_corpora()
 
-# See PyCharm help at https://www.jetbrains.com/help/pycharm/
+# Train on all corpora
+models = train_word2vec.train_all_corpora(corpora = variables.corpora)
+
+# Write to file 10 most similar words for each testword in each model
+#train_word2vec.get_neighbourhood(models)
+

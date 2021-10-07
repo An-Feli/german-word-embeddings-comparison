@@ -1,0 +1,13 @@
+
+
+
+
+82. Jokele.
+Es schickt der Herr des Jokele naus,Soll die Bire schüttle;'s Jokele will net d' Bire schüttle,D' Bire wöllet net falle.
+Schickt der Herr a Hundle naus,Soll des Jokele beiße.'s Hundle will net 's Jokele beiße,'s Jokele will net d' Bire schüttle,D' Bire wöllet net falle.
+Schickt der Herr a Prügele naus,Soll das Hundle schlage.'s Prügele will net 's Hundle schlage,'s Hundle will net 's Jokele beiße,'s Jokele will net d' Bire schüttle,D' Bire wöllet net falle.
+Schickt der Herr a Feuerle naus,Soll das Prügele brenne.'s Feuerle will net 's Prügele brenne,'s Prügele will net 's Hundle schlage,'s Hundle will net 's Jokele beiße,'s Jokele will net d' Bire schüttle,D' Bire wöllet net falle.
+Schickt der Herr 's Wäßerle naus,Soll das Feuerle lösche.'s Wäßerle will net 's Feuerle lösche,'s Feuerle will net 's Prügele brenne,'s Prügele will net 's Hundle schlage,'s Hundle will net 's Jokele beiße,'s Jokele will net d' Bire schüttle,D' Bire wöllet net falle.
+Schickt der Herr a Oechsle naus,Soll das Wäßerle saufe.'s Oechsle will net 's Wäßerle saufe,'s Wäßerle will net 's Feuerle lösche,'s Feuerle will net 's Prügele brenne,'s Prügele will net 's Hundle schlage,'s Hundle will net 's Jokele beiße,'s Jokele will net d' Bire schüttle,D' Bire wöllet net falle.
+Schickt der Herr a Metzgerle naus,Soll das Oechsle metzge.'s Metzgerle will net 's Oechsle metzge,'s Oechsle will net 's Wäßerle saufe,'s Wäßerle will net 's Feuerle lösche,'s Feuerle will net 's Prügele brenne,'s Prügele will net 's Hundle schlage,'s Hundle will net 's Jokele beiße,'s Jokele will net d' Bire schüttle,D' Bire wöllet net falle.
+Schickt der Herr den Henker naus,Soll das Metzgerle henke.Henker will ja 's Metzgerle henke,'s Metzgerle will ja 's Oechsle metzge,'s Oechsle will ja 's Wäßerle saufe,'s Wäßerle will ja 's Feuerle lösche,'s Feuerle will ja 's Prügele brenne,'s Prügele will ja 's Hundle schlage,'s Hundle will ja 's Jokele beiße,'s Jokele will ja d' Bire schüttle,D' Bire wöllet ja falle.
