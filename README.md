@@ -4,6 +4,12 @@ This repository contains the code for the experimental part of the bachelor thes
 
 ## Usage
 
+Install requirements:
+
+```sh
+pip install -r requirements.txt
+```
+
 Run main.py
 ```sh
 python main.py
