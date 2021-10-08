@@ -102,7 +102,7 @@ def load_corpus(load_from):
     :param load_from: String - name of corpus to be loaded
     :return: list of list of string - The loaded corpus
     """
-    print("LOAD COUPUS")
+    print("LOAD CORPUS: " + load_from)
 
     with open(load_from, 'rb') as handle:
         return pickle.load(handle)
