@@ -65,7 +65,7 @@ def get_corpus(folderpath, lower_case, remove_stopwords):
         Each inner list is one sentence.
         The outer list contains the sentences from all documents.
     """
-    print("BUILD COUPUS")
+    print("BUILD CORPUS")
     corpus = []
     # Hole aus jeden file eine Liste aus sentences (sentence = list if tokens)
     for file in os.listdir(folderpath):
